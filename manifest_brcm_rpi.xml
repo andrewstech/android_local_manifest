@@ -4,8 +4,8 @@
     <project path="device/brcm/rpi3" name="lineage-rpi/android_device_brcm_rpi3" />
     <project path="device/brcm/rpi4" name="lineage-rpi/android_device_brcm_rpi4" />
     <project path="device/brcm/rpi-common" name="lineage-rpi/android_device_brcm_rpi-common" />
-    <project path="kernel/brcm/rpi" name="lineage-rpi/android_kernel_brcm_rpi" />
-    <project path="kernel/brcm/rpi-4.19" name="lineage-rpi/android_kernel_brcm_rpi" revision="lineage-17.1-4.19" />
+    <project path="kernel/brcm/rpi" name="andrewstech/android_kernel_brcm_rpi" />
+    <project path="kernel/brcm/rpi-4.19" name="andrewstech/android_kernel_brcm_rpi" revision="lineage-17.1-4.19" />
     <project path="vendor/brcm" name="lineage-rpi/proprietary_vendor_brcm" />
 
     <!-- Graphics -->
